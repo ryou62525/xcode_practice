@@ -1,6 +1,7 @@
 //
 //  main.c
 //  chapter_2
+//  変数を使って表示
 //
 //  Created by 小松亮太 on 2017/02/10.
 //  Copyright © 2017年 小松亮太. All rights reserved.
@@ -8,7 +9,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
     
     printf("Hello, World!\n");
     

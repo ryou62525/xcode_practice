@@ -1,6 +1,7 @@
 //
 //  main.c
 //  chapter_1
+//  計算結果の表示
 //
 //  Created by 小松亮太 on 2017/02/10.
 //  Copyright © 2017年 小松亮太. All rights reserved.
@@ -8,7 +9,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
     
     //コンソールに「Hello, World!」という文字を表示させる
     // [ \n ]は改行コードで１行改行してくれる下記のように複数回可能
